@@ -102,21 +102,19 @@ params:
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
-    content: "Seasoned professional, with significant expertise as a consultant in digital transformation projects, mainly in products / services strategy definition, always with customer-centric philosophy and data-driven mindset. I am currently fully focused on scaling the startup that I co-founded, where we developed a new service in the proptech industry, using artificial technology to democratise home decoration.
-
-Self-starter and resourceful, I am knowledgeable of current tech trends, always aiming to apply the most disruptive approaches to the challenges I face. I have been studying innovation from the academic standpoint but I also trained myself on the job, with extensive use of design thinking techniques that brought me back to my former university to become lecturer on the topic."
+    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (#newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and new angles for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and Entrepreneuship."
     image: /images/hero.svg
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/saulgh/
         - icon: fab fa-twitter
-          url: https://example.com
+          url: https://twitter.com/sgar2209
       #customIcons:
       #  - icon: /fav.png
       #    url: "https://example.com"
@@ -212,42 +210,70 @@ Self-starter and resourceful, I am knowledgeable of current tech trends, always 
     # title: "Custom Name"
     # index: true
     items:
-      - title: "Master of Business Administration"
+      - title: "PhD candidate in Economics & Innovation"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "Universidad Autonoma de Madrid"
+          url: "https://www.uam.es"
+        date: "2015 - 2023"
+        #GPA: "3.8 out of 5.0"
+        #content: |-
+          #Extracurricular Activities
+            #- Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            #- Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "MSc in Innovation Management"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          name: "Maastrich University"
+          url: "https://www.maastrichtuniversity.nl/"
+        date: "2012 - 2013"
+        #GPA: "3.9 out of 5.0"
+        #content: |-
+        #  I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+        #  - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+        #  - Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+        #  Extracurricular Activities
+        #    - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #    - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        # featuredLink:
+        #  enable: true
+        #  name: "My academic record"
+        #  url: "https://example.com"
+      - title: "BSc in Business Science"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Universitat de Barcelona"
+          url: "https://www.ub.edu/web/portal/en/"
+        date: "2006 - 2010"
+        #GPA: "3.9 out of 5.0"
+        #content: |-
+        #  I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+        #  - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+        #  - Face mask detection using a single convolutional neural network.
+
+        #  Extracurricular Activities
+        #    - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #    - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        # featuredLink:
+        #  enable: true
+        #  name: "My academic record"
+        #  url: "https://example.com"
+      - title: "MSc and BSc in Telecommunications Engineering"
+        school:
+          name: "BCN Telecom, Universitat Politècnica de Catalunya"
+          url: "https://www.upc.edu/en"
+        date: "2003 - 2009"
+        #GPA: "3.9 out of 5.0"
+        #content: |-
+        #  I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+        #  - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+        #  - Face mask detection using a single convolutional neural network.
+
+        #  Extracurricular Activities
+        #    - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #    - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        # featuredLink:
+        #  enable: true
+        #  name: "My academic record"
+        #  url: "https://example.com"
 
   # Achievements
   achievements:
@@ -297,9 +323,9 @@ Self-starter and resourceful, I am knowledgeable of current tech trends, always 
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
+        badges:
+           - "Django"
+           - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
