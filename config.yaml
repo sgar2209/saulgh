@@ -208,7 +208,7 @@ Self-starter and resourceful, I am knowledgeable of current tech trends, always 
 
   # Education
   education:
-    enable: false
+    enable: true
     # title: "Custom Name"
     # index: true
     items:
