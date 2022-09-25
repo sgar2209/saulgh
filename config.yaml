@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "saulgh.eu"
+title: "saulgh.xyz"
 theme: hugo-profile
 
 Paginate: 3
@@ -45,7 +45,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "saulgh.eu"
+  title: "saulgh.xyz"
   description: Saul Garcia Huertes Personal Site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
