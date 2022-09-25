@@ -102,7 +102,7 @@ params:
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
-    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (#newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and Entrepreneuship."
+    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and Entrepreneuship."
     image: /images/hero.svg
     button:
       enable: false
@@ -144,38 +144,41 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "CEO and Co-Founder"
+        company: "StageInHome"
+        companyUrl: "https://www.stageinhome.com"
+        date: "June 2020 - Present"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+          name: "Check our AI-powered service for virtual home staging"
+          url: "https://stageinhome.com/home-staging-virtual"
         info:
           enable: false
+          content: "Full dedication"
+        content: "Set the vision for the company and defining the overall strategy from launch to scale, while driving growth, profitability and company value."
+
+      - job: "Digital Transformation Advisor"
+        company: "Napptilus Tech Labs"
+        companyUrl: "https://napptilus.com"
+        date: "Jan 2021 - Present"
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        info:
+          enable: true
+          content: "Partial dedication"
+        content: |
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
+
+      - job: "Lecturer"
+        company: "Universitat Politècnica de Catalunya"
+        companyUrl: "https://upc.edu"
+        date: "Jan 2020 - Aug 2020"
+        info:
+          enable: true
+          content: "Partial dedication"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -185,12 +188,15 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
+      - job: "Consulting Manager"
+        company: "Accenture"
+        companyUrl: "https://www.accenture.com"
         date: "June 2017 - Nov 2019"
+        info:
+          enable: false
+          content: "Partial dedication"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
@@ -198,11 +204,38 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
+      - job: "Commercial Manager"
+        company: "LATAM Airlines"
+        companyUrl: "https://www.latamairlines.com/"
         date: "Feb 2016 - Mar 2017"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+
+      - job: "Short-term Consultant"
+        company: "The World Bank Group"
+        companyUrl: "https://www.worldbank.org/en/home"
+        date: "Feb 2016 - Mar 2017"
+        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+
+      - job: "Senior Consultant"
+        company: "Minsait - Indra Business Consulting"
+        companyUrl: "https://www.minsait.com/en"
+        date: "July 2013 - April 2014"
+        info:
+          enable: false
+          content: "Partial dedication"
+        content: |
+          - Aligned to Airlines' Business Unit I worked mostly for Iberia, achieving the targeted results and winning the expected public tenders to provide services at the Spanish airports
+          - Developed and implemented strategic plans for public and private organizations in EU and LATAM including economic models, financial projections, and roadmap recommendations
+
+      - job: "Management Consultant"
+        company: "Accenture"
+        companyUrl: "https://www.accenture.com"
+        date: "October 2009 - August 2012"
+        info:
+            enable: false
+            content: "Partial dedication"
+        content: |
+          - Improved performance of clients’ targeted activities in their different affiliates across Europe, I put forward tailored solutions, coordinated teams and ran the value realisation office for C-Level reporting"
 
   # Education
   education:
