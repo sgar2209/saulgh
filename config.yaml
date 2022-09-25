@@ -102,7 +102,9 @@ params:
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly. A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "Seasoned professional, with significant expertise as a consultant in digital transformation projects, mainly in products / services strategy definition, always with customer-centric philosophy and data-driven mindset. I am currently fully focused on scaling the startup that I co-founded, where we developed a new service in the proptech industry, using artificial technology to democratise home decoration.
+
+Self-starter and resourceful, I am knowledgeable of current tech trends, always aiming to apply the most disruptive approaches to the challenges I face. I have been studying innovation from the academic standpoint but I also trained myself on the job, with extensive use of design thinking techniques that brought me back to my former university to become lecturer on the topic."
     image: /images/hero.svg
     button:
       enable: true
