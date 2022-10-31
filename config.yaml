@@ -102,7 +102,7 @@ params:
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
-    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and Entrepreneuship."
+    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a new angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and entrepreneurship."
     image: /images/hero.svg
     button:
       enable: false
