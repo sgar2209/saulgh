@@ -4,7 +4,6 @@ title: "saulgh.xyz"
 theme: hugo-profile
 
 Paginate: 3
-#disqusShortname: gurusabarish
 googleAnalytics: UA-138961837-1
 
 markup:
