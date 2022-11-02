@@ -101,7 +101,7 @@ params:
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
-    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a new angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and entrepreneurship."
+    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a new angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and Entrepreneurship."
     image: /images/hero.svg
     button:
       enable: false
@@ -249,7 +249,7 @@ params:
   education:
     enable: true
     # title: "Custom Name"
-    # index: true
+    index: true
     items:
       - title: "PhD candidate in Economics & Innovation"
         school:
@@ -319,13 +319,14 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Custom Name"
     items:
       - title: AUCOOP Co-Founder
         content: NGO to leverage tech in education for UPC students. I had to opportunity to volunteer in Peru, Chile and Colombia.
         url: "https://aucoop.upc.edu/ca"
       - title: Telecogresca Alumni
         content: Had the honour to be part of the team that makes possible every year the celebration of the biggest music concert organized by university students in Europe.
+        url: "https://telecogresca.com"
       - title: Scrum Master Certified (SMC)
         content: Certified by Scrum-Alliance in 2019.
         url: "https://bcert.me/srdzdytwr"
@@ -375,7 +376,7 @@ params:
     enable: true
     #title: "Custom name"
     content: Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: sgar2209@gmail.com
+    email: me@saulgh.xyz
     btnName: Mail me
 
   footer:
