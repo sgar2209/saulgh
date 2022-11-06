@@ -66,12 +66,12 @@ params:
 
   # color preference
   # color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-  #   primaryColor:
-  #   secondaryColor:
+  #   textColor: <000000>
+  #   secondaryTextColor: <4D4D4D>
+  #   backgroundColor: <linear-gradient(to right, 5D26C1, a17fe0, 59C173)>
+  #   secondaryBackgroundColor: <FFFFFF>
+  #   primaryColor: <5D26C1>
+  #   secondaryColor: <59C173>
 
   #   darkmode:
   #     textColor:
