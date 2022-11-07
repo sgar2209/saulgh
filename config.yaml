@@ -112,8 +112,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/saulgh/
-        - icon: fab fa-twitter
-          url: https://twitter.com/sgar2209
+      #  - icon: fab fa-twitter
+      #    url: https://twitter.com/sgar2209
       #customIcons:
       #  - icon: /fav.png
       #    url: "https://example.com"
@@ -384,6 +384,6 @@ params:
     socialNetworks:
       #github: https://github.com
       linkedin: https://www.linkedin.com/in/saulgh/
-      twitter: https://twitter.com/sgar2209
+      #twitter: https://twitter.com/sgar2209
       #instagram: https://instagram.com
       #facebook: https://facebook.com
