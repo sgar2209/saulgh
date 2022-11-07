@@ -140,7 +140,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "CEO and Co-Founder"
@@ -247,7 +247,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
@@ -319,7 +319,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    title: "Custom Name"
+    # title: "Custom Name"
     items:
       - title: AUCOOP Co-Founder
         content: NGO to leverage tech in education for UPC students. I had to opportunity to volunteer in Peru, Chile and Colombia.
