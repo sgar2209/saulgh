@@ -249,7 +249,7 @@ params:
   education:
     enable: true
     # title: "Custom Name"
-    index: true
+    index: false
     items:
       - title: "PhD candidate in Economics & Innovation"
         school:
