@@ -101,7 +101,7 @@ params:
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
-    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a new angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer on Innovation and Entrepreneurship."
+    content: "🚀 CEO & Co-founder of stageinhome.com, disrupting the proptech industry with an AI approach. 💡 Co-founder of tracksco2.com (newspace applications for a decarbonizated economy) and tokeneat.xyz (web3, blockchain and a new angle for NFT applications). 📣 Speaker and Management Consultant on Digital Transformation topics. 🎓 Phd Student, and University Lecturer in Innovation and Entrepreneurship."
     image: /images/hero.svg
     button:
       enable: false
@@ -334,21 +334,38 @@ params:
   # projects
   projects:
     enable: true
-    title: "Recent achievements"
+    title: "Past events"
     items:
       - title: Catalan Pitch Competition
         content: I really had fun pitching on this event!
         image: /images/projects/CatalanPitch.jpeg
         badges:
            - "Pitch"
-        #   - "Bootstrap"
-        #   - "Javascript"
         links:
           - icon: fab fa-linkedin
             url: https://www.linkedin.com/posts/saulgh_startups-techspiritbarcelona-activity-6868943967325585409-wfbq?utm_source=share&utm_medium=member_desktop
 
-      - title: Press presence
-        content: One of our first press interviews thanks to La Vanguardia
+      - title: Catalan Pitch Competition
+        content: I really had fun pitching on this event!
+        image: /images/projects/CatalanPitch.jpeg
+        badges:
+           - "Pitch"
+        links:
+          - icon: fab fa-linkedin
+            url: https://www.linkedin.com/posts/saulgh_startups-techspiritbarcelona-activity-6868943967325585409-wfbq?utm_source=share&utm_medium=member_desktop
+
+      - title: BCN Activa Preincubation program
+        content: Out of 200+ startups across various sectors, StageInHome was chosen as one of the top 10 projects to participate in the program.
+        image: /images/projects/CatalanPitch.jpeg
+        badges:
+          - "Pitch"
+           - "Incubator"
+        links:
+          - icon: fab fa-linkedin
+            url: https://www.linkedin.com/posts/saulgh_startups-techspiritbarcelona-activity-6868943967325585409-wfbq?utm_source=share&utm_medium=member_desktop
+
+      - title: La Vanguardia interview
+        content: Thanks to La Vanguardia, we had the opportunity to share our project through our first press interviews, which helped us to gain more relevance and exposure.
         image: /images/projects/LaVanguardia.png
         badges:
            - "Press"
@@ -357,7 +374,7 @@ params:
             url: https://www.linkedin.com/posts/saulgh_proptech-artificialintelligence-homestaging-activity-6789887062054064128-Wi-P?utm_source=share&utm_medium=member_desktop
 
       - title: ESADE & Idealista Real Estate Challenge
-        content: Participated on the open challenge to proptech startups, and we luckily won!
+        content: We were among the 100+ startups who participated in the open challenge to proptech startups, and we were thrilled to come out as the lucky winners!
         image: /images/projects/RealEstateChallenge.png
         #featured:
         #  name: Demo V2
@@ -365,7 +382,6 @@ params:
         badges:
           - "Pitch"
           - "Challenge"
-        #   - "Javascript"
         links:
           - icon: fab fa-linkedin
             url: https://www.linkedin.com/posts/saulgh_stageinhome-ganador-del-esade-alumni-idealista-activity-6781319696772808704-GBwo?utm_source=share&utm_medium=member_desktop
