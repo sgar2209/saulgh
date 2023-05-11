@@ -97,7 +97,7 @@ params:
 
   # Hero
   hero:
-    enable: true
+    enable: false
     # intro: "Hi, my name is"
     title: "Saul Garcia Huertes."
     subtitle: "Startup CEO & Co-founder. Tech Strategist. Lecturer."
